@@ -1,0 +1,9 @@
+path: /home/scazarch/Desktop/coding-repos/work-repos/floorplanner-cost-estimate/training_model/data
+
+train: images/train
+val: images/val
+
+names:
+  0: background
+  1: door
+  2: window
